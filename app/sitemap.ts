@@ -1,17 +1,17 @@
 import { MetadataRoute } from "next";
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://greenleaf-catering.vercel.app";
+const BASE_URL = "https://greenleaf-catering.vercel.app";
 
+export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: base,
+      url: BASE_URL,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 1,
     },
     {
-      url: `${base}/menu`,
+      url: `${BASE_URL}/menu`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.9,

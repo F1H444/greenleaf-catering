@@ -61,10 +61,14 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  icons: {
+    icon: "/greenleaf-catering.png",
+    apple: "/greenleaf-catering.png",
+  },
   openGraph: {
     title: "GREENLEAF Catering & Dekor | Nasi Box & Catering Salatiga",
     description:
-      "Spesialis nasi box, prasmanan, tumpeng, dan dekorasi tenda plafon di Salatiga. Menu fleksibel, harga terjangkau, halal. Berdiri sejak 2018.",
+      "Spesialis nasi box, prasmanan, tumpeng, snack dus, hantaran, dan dekorasi tenda plafon di Salatiga. Menu fleksibel, harga terjangkau, halal. Berdiri sejak 2018.",
     type: "website",
     locale: "id_ID",
     url: BASE_URL,
@@ -87,6 +91,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: BASE_URL,
+    languages: {
+      id: BASE_URL,
+    },
   },
   verification: {
     google: "", // isi dengan kode verifikasi Google Search Console
@@ -99,13 +106,18 @@ export const metadata: Metadata = {
   },
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="id" className={`${outfit.variable} ${inter.variable}`}>
       <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         {/* Local Business Schema — meningkatkan peluang muncul di Google Maps & Knowledge Panel */}
         <script
           type="application/ld+json"
@@ -130,12 +142,6 @@ export default function RootLayout({
                 "@type": "GeoCoordinates",
                 latitude: -7.356463,
                 longitude: 110.487572,
-              },
-              openingHoursSpecification: {
-                "@type": "OpeningHoursSpecification",
-                dayOfWeek: ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                opens: "07:00",
-                closes: "21:00",
               },
               priceRange: "Rp 15.000 - Rp 2.000.000",
               servesCuisine: "Indonesian",

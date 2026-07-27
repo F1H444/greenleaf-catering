@@ -483,6 +483,7 @@ a { text-decoration: none; color: inherit; }
 .img-frame {
   position: relative;
   width: 100%;
+  aspect-ratio: 4/3;
   z-index: 0;
   background: rgba(255, 255, 255, 0.05);
   overflow: hidden;
@@ -904,6 +905,7 @@ img {
 
 /* -- Swiper Small ------------------------- */
 .gl-swiper-small {
+  width: 100%;
   border-radius: var(--r-lg);
   overflow: hidden;
 }

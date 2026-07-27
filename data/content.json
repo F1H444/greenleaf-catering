@@ -1,0 +1,414 @@
+{
+  "hero": {
+    "title": "Spesialis Catering Salatiga & Sekitarnya",
+    "subtitle": "SUGENG RAWUH",
+    "description": "GREENLEAF Catering & Dekor menyediakan berbagai kebutuhan konsumsi acara anda. Menu bisa menyesuaikan permintaan dan budget.",
+    "established": 2024,
+    "motto": "Kepuasan Anda adalah Prioritas Kami."
+  },
+  "about": {
+    "title": "Tentang GREENLEAF",
+    "subtitle": "Catering & Dekorasi Terbaik di Salatiga",
+    "description": "GREENLEAF Catering menyediakan berbagai kebutuhan konsumsi acara anda mulai dari Aneka Paket Nasi, Snack Dus, Racikan/Piring terbang, Prasmanan, Tumpeng, Aneka Stall, hingga Hantaran Pernikahan.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Menu Pilihan"
+      },
+      {
+        "value": "100%",
+        "label": "Halal"
+      },
+      {
+        "value": "24/7",
+        "label": "Pelayanan"
+      }
+    ]
+  },
+  "visiMisi": {
+    "title": "Visi & Misi",
+    "subtitle": "Komitmen Kami untuk Anda",
+    "visi": {
+      "title": "Visi Kami",
+      "description": "Menjadi layanan catering terdepan dan terpercaya di Kota Salatiga."
+    },
+    "misi": {
+      "title": "Misi Kami",
+      "items": [
+        {
+          "icon": "quality",
+          "title": "Kualitas Terjamin",
+          "description": "Menggunakan bahan baku segar dan berkualitas tinggi."
+        },
+        {
+          "icon": "service",
+          "title": "Pelayanan Sepenuh Hati",
+          "description": "Menu bisa menyesuaikan permintaan dan budget."
+        },
+        {
+          "icon": "innovation",
+          "title": "Berbagai Kebutuhan",
+          "description": "Menyediakan Aneka Paket Nasi, Snack Dus, Prasmanan, hingga Tumpeng."
+        },
+        {
+          "icon": "community",
+          "title": "Membangun Kepercayaan",
+          "description": "Membangun hubungan jangka panjang dengan pelanggan."
+        }
+      ]
+    }
+  },
+  "features": {
+    "title": "Layanan Kami",
+    "subtitle": "Kebutuhan Konsumsi Acara Anda",
+    "description": "Kami menyediakan berbagai pilihan untuk setiap acara penting Anda.",
+    "items": [
+      {
+        "title": "Aneka Paket Nasi",
+        "description": "Nasi box / nasi kotak lezat untuk berbagai acara."
+      },
+      {
+        "title": "Snack Dus",
+        "description": "Berbagai pilihan kue dan jajanan pasar dalam kemasan dus."
+      },
+      {
+        "title": "Racikan / Piring Terbang",
+        "description": "Layanan piring terbang tradisional untuk resepsi."
+      },
+      {
+        "title": "Prasmanan",
+        "description": "Menu prasmanan lengkap untuk pernikahan dan acara besar."
+      },
+      {
+        "title": "Tumpeng",
+        "description": "Tumpeng hias untuk syukuran dan perayaan."
+      },
+      {
+        "title": "Hantaran Pernikahan",
+        "description": "Hantaran makanan cantik untuk momen pernikahan."
+      }
+    ]
+  },
+  "menu": {
+    "title": "Intip Menu",
+    "subtitle": "DAFTAR MENU",
+    "description": "Cek daftar paket menu kami atau konsultasikan untuk menyesuaikan dengan permintaan dan budget Anda.",
+    "categories": [
+      {
+        "id": "aneka-nasi-box-paket-32k",
+        "name": "ANEKA NASI BOX PAKET 32K",
+        "price": "Rp 30.000",
+        "description": "Menu bisa menyesuikan permintaan",
+        "image_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "nasi-tepak",
+        "name": "NASI TEPAK",
+        "price": "Rp 28.000",
+        "description": "Harga sesuai permintaan bisa berubah....",
+        "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "ater-ater-syukuran",
+        "name": "Ater ater syukuran",
+        "price": "Rp 100.000",
+        "description": "harga menyesuikan permintaan",
+        "image_url": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "nasi-kuning-biru-bento",
+        "name": "Nasi kuning / biru BENTO",
+        "price": "Rp 25.000",
+        "description": "Nasi kuning/biru, mie, telor rawis, nuget 2 pcs, susu UHT, pudding",
+        "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-tumpeng-mini-sekat",
+        "name": "ANEKA TUMPENG MINI SEKAT",
+        "price": "Rp 28.000",
+        "description": "Plus stiker +2k Tumpeng kuning, urap, telang",
+        "image_url": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-tumpeng-mini",
+        "name": "ANEKA TUMPENG MINI",
+        "price": "Rp 25.000",
+        "description": "Tumpeng kuning, telang",
+        "image_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-nasi-box-paket-25k",
+        "name": "ANEKA NASI BOX PAKET 25K",
+        "price": "Rp 25.000",
+        "description": "Menu bisa sesuai permintaan semua sdh include KRUPUK dan CENDOK",
+        "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "rebusan-25-porsi",
+        "name": "REBUSAN 25 PORSI",
+        "price": "Rp 200.000",
+        "description": "rebusan 3 macam",
+        "image_url": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "jajan-pasar-standar-7-macam",
+        "name": "JAJAN PASAR standar 7 MACAM",
+        "price": "Rp 200.000",
+        "description": "jajan pasar tradisional 7 macam 13 pcs per item",
+        "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "prasmanan-start-from-35k",
+        "name": "PRASMANAN start From 35K",
+        "price": "Rp 35.000",
+        "description": "Minimal order 50 porsi, dibawah 50 porsi beda Harga",
+        "image_url": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-nasi-box-paket-28k",
+        "name": "ANEKA NASI BOX PAKET 28k",
+        "price": "Rp 28.000",
+        "description": "Untuk menu bisa sesuai permintaan",
+        "image_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "tumpeng-semeja",
+        "name": "TUMPENG SEMEJA dari 750rb - 2jt",
+        "price": "Rp 750.000",
+        "description": "Tumpeng semeja harga menyesuikan isi dan porsi..CHAT admin untuk kepastian Harga",
+        "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "hantaran-keranjang",
+        "name": "HANTARAN KERANJANG",
+        "price": "Rp 300.000",
+        "description": "Berbagai macam pilihan : menu sate, menu nasi kuning, menu nasi telang, menu buah",
+        "image_url": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "dekorasi-dan-tenda-plafon",
+        "name": "DEKORASI dan TENDA PLAFON",
+        "price": "Mulai dari Rp 1.500.000",
+        "description": "Dekorasi kecil mulai dari 1,5 jt Tdk tersedia tenda biasa, semua berplafon dari harga 1.8 jt ( 8m x 10m ) sudah termasuk lampu hias, belum termasuk blok dinding",
+        "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "sepinggan",
+        "name": "SEPINGGAN",
+        "price": "Rp 25.000",
+        "description": "Bisa request isian menu",
+        "image_url": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "hampers-rantangan-susun",
+        "name": "HAMPERS RANTANGAN SUSUN",
+        "price": "Rp 65.000",
+        "description": "Pesanan H-10 hari",
+        "image_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "hampers-rantangan-kecil",
+        "name": "HAMPERS RANTANGAN KECIL",
+        "price": "Rp 50.000",
+        "description": "Pesanan H-10 hari",
+        "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-bowl",
+        "name": "ANEKA BOWL",
+        "price": "Rp 15.000",
+        "description": "Untuk USDA bisa chat khusus",
+        "image_url": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "hampers-ketupat-lontong-opor",
+        "name": "HAMPERS KETUPAT/LONTONG OPOR",
+        "price": "Rp 150.000",
+        "description": "Untuk 3 porsi",
+        "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "paket-nasi-snack",
+        "name": "PAKET NASI SNACK",
+        "price": "Rp 37.000",
+        "description": "Paket nasi, buah pisang/jeruk, snack 3 macam",
+        "image_url": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-ater2-hantaran",
+        "name": "ANEKA ATER2 (HANTARAN)",
+        "price": "Rp 55.000",
+        "description": "Setiap menu bisa menyesuikan permintaan dan bisa tambah tas +5k",
+        "image_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "bento-kecil",
+        "name": "BENTO KECIL",
+        "price": "Rp 15.000",
+        "description": "Nasi kuning, biru, gurih",
+        "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "tumpeng-sate",
+        "name": "TUMPENG SATE",
+        "price": "Rp 300.000",
+        "description": "",
+        "image_url": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "paket-greenleaf",
+        "name": "PAKET GREENLEAF",
+        "price": "Rp 35.000",
+        "description": "Menu bisa menyesuikan keinginan dan kebutuhan",
+        "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "tumpeng-kemerdekaan",
+        "name": "TUMPENG KEMERDEKAAN",
+        "price": "Rp 400.000",
+        "description": "Harga sesuai request..start @300k",
+        "image_url": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "nasi-liwet",
+        "name": "NASI LIWET",
+        "price": "Rp 400.000",
+        "description": "",
+        "image_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "tart-mie",
+        "name": "TART MIE",
+        "price": "Rp 150.000",
+        "description": "Klo tart mie ada ongkir kirim",
+        "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "ketupat-lebaran",
+        "name": "KETUPAT LEBARAN",
+        "price": "Rp 4.000",
+        "description": "Hanya tersedia H-1 Lebaran",
+        "image_url": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "hampers",
+        "name": "HAMPERS",
+        "price": "Rp 55.000",
+        "description": "Lengkap box dan pita...50k tanpa box dan pita",
+        "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "ingkung-start-150k",
+        "name": "INGKUNG START 150K",
+        "price": "Rp 150.000",
+        "description": "Harga tergantung permintaan jenis ayam",
+        "image_url": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-tumpeng-400k",
+        "name": "ANEKA TUMPENG 400K",
+        "price": "Rp 400.000",
+        "description": "Tumpeng kuning, telang, gudangan, gurih",
+        "image_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      },
+      {
+        "id": "aneka-tumpeng-besar-300k",
+        "name": "ANEKA TUMPENG BESAR 300K",
+        "price": "Rp 300.000",
+        "description": "Tumpeng urap, kuning, telang, gurih",
+        "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80",
+        "drive_id": ""
+      }
+    ],
+    "sheet_id": "",
+    "paket_folder_id": "1D7Z3BrsTPiajVQ4II80UTSM7So61TAF5",
+    "foodstall_folder_id": ""
+  },
+  "testimonials": {
+    "title": "Kata Mereka",
+    "subtitle": "Cerita Manis dari Klien",
+    "description": "Kepuasan Anda adalah prioritas kami.",
+    "testimoni_folder_id": "",
+    "items": [
+      {
+        "id": 1,
+        "name": "Klien Greenleaf",
+        "event": "Resepsi",
+        "text": "Makanannya enak, penyajian rapi, dan sesuai dengan budget yang kami minta.",
+        "drive_id": ""
+      }
+    ]
+  },
+  "documentation": {
+    "title": "Galeri Kami",
+    "subtitle": "Momen Bersama GREENLEAF",
+    "description": "Keseruan di setiap acara yang kami tangani.",
+    "photo_folder_id": "",
+    "video_folder_id": "",
+    "photos": [
+      {
+        "id": "p1"
+      },
+      {
+        "id": "p2"
+      }
+    ],
+    "videos": []
+  },
+  "contact": {
+    "whatsapp": [
+      "081575757048"
+    ],
+    "instagram": "https://desty.page/greenleaf_catering_salatiga",
+    "tiktok": "https://www.tiktok.com/@nasiboxsantap?_t=8pKQfhnfIjn&_r=1",
+    "facebook": "",
+    "address": "Jln. Amarta RT04/01 Randuares Kumpulrejo, Kec. Argomulyo, Kota Salatiga, Jawa Tengah 50734",
+    "hours": "Sesuai Pesanan"
+  },
+  "brochures": [
+    {
+      "id": "b1",
+      "name": "Daftar Paket Menu",
+      "image_drive_id": "",
+      "image_placeholder_url": "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "whatsapp": "6281575757048"
+    }
+  ]
+}

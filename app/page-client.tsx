@@ -131,11 +131,11 @@ export default function Home() {
 
   /* ── Placeholder images ── */
   const FOOD_IMGS = [
-    "https://images.unsplash.com/photo-1555244162-803834f70033?auto=format&fit=crop&q=80&w=800",
-    "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&q=80&w=800",
-    "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80&w=800",
-    "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80&w=800",
-    "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&q=80&w=800",
+    "/aneka-nasi-box-paket-32k/Screenshot 2026-07-26 124241.png",
+     "/aneka-bowl/Screenshot 2026-07-26 205221.png",
+    "/tumpeng-semeja/Screenshot 2026-07-26 204414.png",
+    "/aneka-nasi-box-paket-25k/Screenshot 2026-07-26 203656.png",
+    "/jajan-pasar-standar-7-macam/Screenshot 2026-07-26 203956.png",
   ];
 
   const AVATARS = [
@@ -606,8 +606,8 @@ export default function Home() {
                 {content.contact?.address || "Jln. Amarta RT04/01, Randuares Kumpulrejo, Jl. Amarta, Kumpulrejo, Kec. Argomulyo, Kota Salatiga, Jawa Tengah 50734, Indonesia"}
               </p>
                <div className="map-frame">
-                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.9770925659886!2d110.48757227605014!3d-7.356463972383561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a79216c4db0b1%3A0x8c2116c4e7368aae!2sGREENLEAF%20Catering%2C%20Nasi%20Box%20%26%20Dekorasi!5e0!3m2!1sen!2sid!4v1784997057067!5m2!1sen!2sid" width="100%" height="100%" style={{ border: 0 }} allowFullScreen={false} loading="lazy" referrerPolicy="strict-origin-when-cross-origin"></iframe>
-               </div>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.97704506352!2d110.4901472!3d-7.3564693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a79216c4db0b1%3A0x8c2116c4e7368aae!2sGREENLEAF%20Catering%2C%20Nasi%20Box%20%26%20Dekorasi!5e0!3m2!1sen!2sid!4v1785321864405!5m2!1sen!2sid" width="100%" height="100%" style={{ border: 0 }} allowFullScreen={false} loading="lazy" referrerPolicy="strict-origin-when-cross-origin"></iframe>
+                </div>
             </div>
 
             {/* Contact links */}

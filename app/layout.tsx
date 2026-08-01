@@ -61,10 +61,6 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  icons: {
-    icon: "/greenleaf-catering.png",
-    apple: "/greenleaf-catering.png",
-  },
   openGraph: {
     title: "GREENLEAF Catering & Dekor | Nasi Box & Catering Salatiga",
     description:
@@ -119,8 +115,6 @@ export default function RootLayout({
   return (
     <html lang="id" className={`${outfit.variable} ${inter.variable}`}>
       <head>
-        <link rel="icon" href="/greenleaf-catering.png" type="image/png" />
-        <link rel="apple-touch-icon" href="/greenleaf-catering.png" />
         {/* Local Business Schema — meningkatkan peluang muncul di Google Maps & Knowledge Panel */}
         <script
           type="application/ld+json"

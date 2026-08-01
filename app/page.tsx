@@ -47,10 +47,6 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  icons: {
-    icon: "/greenleaf-catering.png",
-    apple: "/greenleaf-catering.png",
-  },
   openGraph: {
     title: "GREENLEAF Catering & Dekor | Nasi Box & Catering Salatiga",
     description:

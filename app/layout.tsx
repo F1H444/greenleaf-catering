@@ -71,11 +71,11 @@ export const metadata: Metadata = {
     siteName: "GREENLEAF Catering & Dekor",
     images: [
       {
-        url: "/og-food.jpg",
+        url: "/og-terbaru.jpg",
         width: 1200,
         height: 630,
         type: "image/jpeg",
-        alt: "GREENLEAF Catering & Dekor Salatiga - Menu Nasi Liwet & Nasi Box",
+        alt: "GREENLEAF Catering & Dekor Salatiga - Paket Nasi Box SMTAP",
       },
     ],
   },
@@ -84,7 +84,7 @@ export const metadata: Metadata = {
     title: "GREENLEAF Catering & Dekor | Nasi Box Salatiga",
     description:
       "Spesialis nasi box, prasmanan, tumpeng, dan dekorasi di Salatiga. Menu fleksibel & halal.",
-    images: ["/og-food.jpg"],
+    images: ["/og-terbaru.jpg"],
   },
   alternates: {
     canonical: BASE_URL,

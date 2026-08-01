@@ -12,6 +12,24 @@ export const metadata: Metadata = {
     description:
       "Daftar lengkap menu istimewa GREENLEAF Catering Salatiga untuk acara Anda.",
     url: "/menu",
+    type: "website",
+    siteName: "GREENLEAF Catering & Dekor",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        type: "image/jpeg",
+        alt: "Menu & Layanan GREENLEAF Catering Salatiga",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Menu & Layanan | GREENLEAF Catering Salatiga",
+    description:
+      "Daftar lengkap menu istimewa GREENLEAF Catering Salatiga untuk acara Anda.",
+    images: ["/og-image.jpg"],
   },
 };
 

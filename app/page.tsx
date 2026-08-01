@@ -61,11 +61,11 @@ export const metadata: Metadata = {
     siteName: "GREENLEAF Catering & Dekor",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-food.jpg",
         width: 1200,
         height: 630,
         type: "image/jpeg",
-        alt: "GREENLEAF Catering & Dekor Salatiga - Nasi Box, Prasmanan, Tumpeng",
+        alt: "GREENLEAF Catering & Dekor Salatiga - Menu Nasi Liwet & Nasi Box",
       },
     ],
   },
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     title: "GREENLEAF Catering & Dekor | Nasi Box Salatiga",
     description:
       "Spesialis nasi box, prasmanan, tumpeng, dan dekorasi di Salatiga. Menu fleksibel & halal.",
-    images: ["/og-image.jpg"],
+    images: ["/og-food.jpg"],
   },
   alternates: {
     canonical: "https://greenleaf-catering.vercel.app",
